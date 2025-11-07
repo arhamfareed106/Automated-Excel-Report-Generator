@@ -1,0 +1,4 @@
+1. Install requirements: pip install -r requirements.txt
+2. Run: python generate_report.py --tickers AAPL MSFT NVDA --start 2023-09-29 --end 2025-10-10 --output ./output
+3. Open the output folder. Review Excel workbook and Word report.
+4. Manually take MarketWatch screenshots (Andy Doan) and add to the Appendix in Client_Report.docx if required.
